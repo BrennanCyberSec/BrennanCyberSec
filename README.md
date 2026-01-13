@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🙂
 
 I'm Brennan, a cybersecurity student who enjoys learning about SOC operations and purple team.
 
@@ -22,7 +22,7 @@ Currently building practical skills through homelabs, log analysis, and security
 - Bash
 - PowerShell
 
-## 📫 How to Reach Me
+## 🤔 How to Reach Me
 
 - **GitHub:** [github.com/brennancybersec](https://github.com/brennancybersec)
 - **LinkedIn:** [linkedin.com/brennanvigna](https://www.linkedin.com/in/brennan-vigna-783863263/)
